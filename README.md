@@ -6,11 +6,13 @@
 
 - 🌱 I’m currently learning <strong>MERN Stack</strong>
 
-- 🏢 Studying at <a href="https://mescoe.mespune.org/" target="_blank">MESWCOE<a/>
+- 🏢 Studying at <a href="https://mescoe.mespune.org/" target="_blank">MESWCOE</a>
 
 - 💻 Junior <strong>Computer Engineering</strong> student
 
 - 📫 How to reach me **bastapureganesh21@gmail.com**
+
+- My Portfolio --> <a href="https://ganeshbastapure.vercel.app/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
