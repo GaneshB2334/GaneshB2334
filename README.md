@@ -39,7 +39,7 @@
 ### 🌍 Social Links
 
 <div align="center">
-  <a href="https://linkedin.com/in/ganesh-bastapure-641116257" target="_blank">
+  <a href="https://linkedin.com/in/ganeshbastapure" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/ganeshb2334" target="_blank">
