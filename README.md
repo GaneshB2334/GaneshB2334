@@ -17,7 +17,7 @@
 
 **🖥️ Frontend:** `React` • `Next.js` • `Tailwind CSS` • `Vite`  
 **⚙️ Backend:** `Node.js` • `Express.js` • `REST APIs` • `JWT`  
-**🗄️ Databases:** `MongoDB`  
+**🗄️ Databases:** `Postgres` • `MongoDB` • `Redis` 
 **🔧 Tools:** `Git` • `Linux` • `VS Code` • `Docker (Learning)`  
 
 </div>
