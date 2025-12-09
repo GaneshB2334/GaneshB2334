@@ -10,7 +10,7 @@
 ### 🧩 Tech Stack Universe
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,linux,bootstrap,tailwind,vite,c,cpp,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,linux,tailwind,vite,c,cpp,python,redis,flask,githubactions,aws,kubernetes,docker&perline=8" />
 </div>
 
 <div align="center">
@@ -28,9 +28,9 @@
 
 <p align="center">
 🏢 Student at <a href="https://mescoe.mespune.org/" target="_blank"><strong>MES WCOE Pune</strong></a> <br>
-💻 Junior <strong>Computer Engineering</strong> student<br>
+💻 Senior <strong>Computer Engineering</strong> student<br>
 🚀 Passionate about Fullstack Web Development<br>
-📬 Reach me → <a href="mailto:bastapureganesh21@gmail.com" target="_blank"><strong>E-mail</strong></a><br>
+📬 Reach me → <a href="mailto:bastapureganesh21@gmail.com" target="_blank"><strong>Mail</strong></a><br>
 🌐 Portfolio → <a href="https://ganeshbastapure.vercel.app" target="_blank"><strong>Visit Here</strong></a>
 </p>
 
