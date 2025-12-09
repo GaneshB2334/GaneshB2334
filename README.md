@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Ganesh Bastapure </h1>
+<h1 align="center"> Ganesh Bastapure </h1>
 <h3 align="center">MERN Stack Developer • Backend Explorer • Problem Solver</h3>
 
 <div align="center">
