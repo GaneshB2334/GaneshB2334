@@ -10,7 +10,7 @@
 ### 🧩 Tech Stack Universe
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,linux,tailwind,vite,c,cpp,python,redis,flask,githubactions,aws,kubernetes,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,linux,tailwind,vite,c,cpp,redis,flask,githubactions,aws,kubernetes,docker&perline=8" />
 </div>
 
 <div align="center">
